@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-qard-hassan-account
+description: "BIAN Service Domain: Qard Hassan Account (Fulfill pattern, Deposits and Investment Accounts)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - fulfill
+annotations:
+  isb/business-area: "Deposits and Investment Accounts"
+  isb/business-domain: "Islamic Deposits"
+  isb/asset-type: "Qard Hassan Account"
+  isb/control-record: "Qard Hassan Account Fulfillment Arrangement"
